@@ -9,3 +9,5 @@ Nesta aula aprendi:
   - .class (seleciona um ou vários elementos)
 - Quais IDs devem ser usados para elementos únicos
 - Quais classes são ideais para aplicar o mesmo estilo em vários elementos
+
+Acompanhamento do Curso de HTML e CSS - Otávio Miranda (Disponível gratuitamente no Youtube)
